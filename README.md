@@ -10,8 +10,8 @@ Thanks for visiting, if you want, follow me if you enjoyed :) and come back soon
 
 ## Willkommen!
 
-Ich bin ein Student der Computertechnik und ein Web-fokussierter Programmierer. Ich arbeite derzeit mit Node Js, React JS und Nextjs.
+Ich bin ein Student der Computertechnik und ein Web-fokussierter programmierer. Ich arbeite derzeit mit Node Js, React JS und Nextjs.
 
-Ich benutze einige Repositories, Technologie zu testen, neue Dinge zu lernen, Notizen zu machen und andere Dinge.
+Ich benutze einige repositories, technologie zu testen, neue Dinge zu lernen, notizen zu machen und andere dinge.
 
-Dank für Ihren Besuch und kommen Sie zurück, wann immer Sie wollen. Folge mir, wenn es deins ist :)
+Dank für ihren besuch und kommen sie zurück, wann immer sie wollen. Folge mir, wenn es deins ist :)
