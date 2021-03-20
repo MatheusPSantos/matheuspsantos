@@ -1,4 +1,4 @@
-## Welcome!
+## 🇺🇸 Welcome!
 
 I am a student of Computer Engineering and I focus on web development.
 
@@ -8,7 +8,7 @@ Some repositories containing code that I use to test technologies, learn new thi
 
 Thanks for visiting, if you want, follow me if you enjoyed :) and come back soon!!
 
-## Willkommen!
+## 🇩🇪 Willkommen!
 
 Ich bin ein Student der Computertechnik und ein Web-fokussierter programmierer. Ich arbeite derzeit mit Node Js, React JS und Nextjs.
 
