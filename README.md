@@ -16,30 +16,7 @@ Ich benutze einige repositories, technologie zu testen, neue Dinge zu lernen, no
 
 Dank für ihren besuch und kommen sie zurück, wann immer sie wollen. Folge mir, wenn es deins ist :)
 
-<html>
-<style>
-  .box {
-    animation: pulse 2s infinite;
-  }
-  
-  @keyframes pulse {
-    0% {
-      transform: scale(0.95);
-      box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
-    }
 
-    70% {
-      transform: scale(1);
-      box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
-    }
-
-    100% {
-      transform: scale(0.95);
-      box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
-    }
-  }
-  
-</style>
 <a class="box" href="https://github.com/matheuspsantos">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=matheuspsantos&show_icons=true&theme=dracula">
 </a>
@@ -53,4 +30,3 @@ Dank für ihren besuch und kommen sie zurück, wann immer sie wollen. Folge mir,
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
-  </html>
