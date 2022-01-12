@@ -15,6 +15,8 @@ Ich bin ein Student der Computertechnik und ein Web-fokussierter programmierer. 
 Ich benutze einige repositories, technologie zu testen, neue Dinge zu lernen, notizen zu machen und andere dinge.
 
 Dank für ihren besuch und kommen sie zurück, wann immer sie wollen. Folge mir, wenn es deins ist :)
+
+<html>
 <style>
   .box {
     animation: pulse 2s infinite;
@@ -51,4 +53,4 @@ Dank für ihren besuch und kommen sie zurück, wann immer sie wollen. Folge mir,
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
-  
+  </html>
