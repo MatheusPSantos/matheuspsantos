@@ -16,12 +16,11 @@ Ich benutze einige repositories, technologie zu testen, neue Dinge zu lernen, no
 
 Dank für ihren besuch und kommen sie zurück, wann immer sie wollen. Folge mir, wenn es deins ist :)
 
-<link rel="stylesheet" href="./style.css"/>
 
-<a class="box" href="https://github.com/matheuspsantos">
+<a href="https://github.com/matheuspsantos">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=matheuspsantos&show_icons=true&theme=dracula">
 </a>
-<a class="box" href="https://github.com/matheuspsantos">
+<a href="https://github.com/matheuspsantos">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspsantos&layout=compact&langs_count=7&theme=dracula">
 </a>
 
