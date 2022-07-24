@@ -5,4 +5,4 @@ Hi! It's me!
 - Web Developer
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspsantos&exclude_repo=matheuspsantos.github.io,if68x-c91&hide=html,php,css,markdown)](https://github.com/matheuspsantos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspsantos&exclude_repo=matheuspsantos.github.io,if68x-c91&hide=html,php,scss,css,markdown)](https://github.com/matheuspsantos/github-readme-stats)
